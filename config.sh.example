@@ -1,0 +1,5 @@
+
+wallpaper_dir=~/wallpapers-random
+histfile=~/.random-wallpaper/history
+histfile_lines=15
+temp_histfile=/mnt/ram/random-wallpaper-history.tmp
